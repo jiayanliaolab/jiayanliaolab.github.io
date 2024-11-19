@@ -3,26 +3,6 @@ main:
   # - title: "CV/Bio"
   #   url: /files/lantaoyu_cv.pdf
 
-<div style="text-align: center; margin-top: 20px;">
-  <!-- 标题 -->
-  <h2 style="font-size: 24px; font-weight: bold;">
-    <a href="/publications/" style="text-decoration: none; color: inherit;">
-      Publications
-    </a>
-  </h2>
-
-  <!-- 背景图片 -->
-  <div style="position: relative; width: 450px; margin: 0 auto; text-align: center;">
-    <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Background Photo" style="width: 100%; height: auto; display: block;" />
-    
-    <!-- 叠加文字 -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); pointer-events: none;">
-      <a href="/publications/" style="text-decoration: none; color: white;">Explore Publications</a>
-    </div>
-  </div>
-</div>
-
-
 
 
   - title: "Publications"
