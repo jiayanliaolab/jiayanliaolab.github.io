@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-
-<div style="position: relative; width: 450px; margin: 0 auto;">
+<div style="position: relative; width: 450px; margin: 0 auto; text-align: center;">
   <!-- 背景图片 -->
-  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 100%; display: block;" />
+  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 100%; height: auto; display: block;" />
   
-  <!-- 中心文字 -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+  <!-- 叠加文字 -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); pointer-events: none;">
     Hello
   </div>
 </div>
+
 
 
 
