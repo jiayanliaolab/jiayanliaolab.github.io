@@ -30,6 +30,11 @@ main:
     
   - title: "Contact"
     url: /contact/  
+
+
+background_image: https://jiayanliaolab.github.io/files/lantaoyu_img.jpg
+
+
     
   # - title: "Guide"
     # url: /markdown/
