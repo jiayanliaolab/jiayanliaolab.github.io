@@ -11,6 +11,11 @@ redirect_from:
 
 <p align="center">
   <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px; position: relative; text-align: center;background-size: cover; background-position: center; "/> 
+<span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold;">
+    Hello, GitHub!
+  </span>
+
+
 </p>
 
 
