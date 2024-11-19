@@ -3,7 +3,9 @@ main:
   # - title: "CV/Bio"
   #   url: /files/lantaoyu_cv.pdf
 
-
+<p align="center">
+  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
   - title: "Publications"
     url: /publications/
@@ -30,7 +32,7 @@ main:
     
   - title: "Contact"
     url: /contact/  
-    background_image: https://jiayanliaolab.github.io/files/lantaoyu_img.jpg
+   
 
 
     
