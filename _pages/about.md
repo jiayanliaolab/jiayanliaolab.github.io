@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 
-<div style="position: relative; text-align: center; width: 100%; height: 300px; background-image: url('https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true'); background-size: cover; background-position: center;">
+<div style="position: relative; text-align: center; width: 100%; height: 300px; background-image: url('https://jiayanliaolab.github.io/files/lantaoyu_img.jpg'); background-size: cover; background-position: center;">
   <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold;">
     Hello, GitHub!
   </span>
 </div>
+
 
 
 
