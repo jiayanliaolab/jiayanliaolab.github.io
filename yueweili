@@ -1,0 +1,14 @@
+{% for item in site.data.main %}
+<div style="text-align: center; margin-top: 20px;">
+  <!-- 标题 -->
+  <h2 style="font-size: 24px; font-weight: bold;">
+    <a href="{{ item.url }}" style="text-decoration: none; color: inherit;">{{ item.title }}</a>
+  </h2>
+
+  <!-- 背景图片 -->
+  {% if item.background_image %}
+  <div style="position: relative; width: 100%; height: 300px; margin: 0 auto; background-image: url('{{ item.background_image }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
