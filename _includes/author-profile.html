@@ -6,11 +6,11 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar"    style=" border-radius: 0 !important;  "            >
+  <div class="author__avatar"    style=" width: 600px; height: 300px;  border-radius: 0 !important;  "            >
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"   style="border-radius: 0 !important;   "    >
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}"   style="width: 600px; height: 300px; border-radius: 0 !important;   "    >
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"       style=" border-radius: 0 !important;  "         >
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"       style=" width: 600px; height: 300px; border-radius: 0 !important;  "         >
     {% endif %}
   </div>
 
