@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-<div style="position: relative; width: 450px; height: auto; margin: 0 auto;">
-  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 100%; height: auto; display: block;" />
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+<div style="position: relative; width: 450px; margin: 0 auto;">
+  <!-- 背景图片 -->
+  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 100%; display: block;" />
+  
+  <!-- 中心文字 -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
     Hello
-  </span>
+  </div>
 </div>
-
 
 
 
