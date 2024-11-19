@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 
-<p align="center">
-  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px; position: relative; text-align: center;background-size: cover; background-position: center; "/> 
-<span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold;">
-    Hello, GitHub!
+<div style="position: relative; width: 450px; height: auto; margin: 0 auto;">
+  <img src="https://jiayanliaolab.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 100%; height: auto; display: block;" />
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+    Hello
   </span>
-
-
-</p>
+</div>
 
 
 
