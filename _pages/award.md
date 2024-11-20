@@ -15,8 +15,12 @@ author_profile: true
 州长科学与工程奖旨在表彰科学和工程方面的卓越成就，<br>
 并奖励那些为新州带来经济、环境、健康、社会或技术效益的前沿研究人员。<br>
 <hr>
-<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
 <div style="height: 2px; background: linear-gradient(to right, red, yellow, green); margin: 20px 0;"></div>
+
+<hr>
+
+
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <div style="flex: 1; height: 1px; background: #ccc;"></div>
   <span style="padding: 0 10px; color: #666;">Section Title</span>
