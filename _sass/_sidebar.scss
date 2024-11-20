@@ -9,7 +9,7 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  margin-left: -20px; /* 左移 20px，可以根据需要调整值 */
+  margin-left: -200px; /* 左移 20px，可以根据需要调整值 */
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
