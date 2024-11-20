@@ -5,7 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
+image:
+  url: "https://jiayanliaolab.github.io/images/sydney1.jpg"
+  alt: "Sydney Image"
+  position: "right"
+  offset: "50px"
 
 
 
