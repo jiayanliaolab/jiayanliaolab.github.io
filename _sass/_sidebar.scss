@@ -9,8 +9,7 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  position: relative; /* 确保它的定位上下文 */
-  left: -200px; /* 左移 200px */
+  margin-left: -200px !important;
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
