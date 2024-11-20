@@ -11,7 +11,18 @@ image:
   position: "right"
   offset: "50px"
 
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+# 引入自定义 CSS 文件
+sass:
+  style: compressed
+collections:
+  css:
+    - style.css
 
 
 # Site Settings
