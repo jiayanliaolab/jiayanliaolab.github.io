@@ -4,7 +4,7 @@ title: "新州年度青年研究员奖（物理科学）<br>（NSW Early Career 
 permalink: /award/
 author_profile: true
 ---
-悉尼科技大学材料和生物医学研究学者廖佳燕博士（Dr Jiayan Liao），                                      {% include image.html %}
+悉尼科技大学材料和生物医学研究学者廖佳燕博士（Dr Jiayan Liao），                                      {% include image.html %}    <br>
 因其在基础光物理现象的探索以及新一代生物分析工具开发方面的研究，<br>
 日前获得新州年度青年研究员奖（物理科学）<br>（NSW Early Career Researcher of the Year - Physical Sciences）。
 
