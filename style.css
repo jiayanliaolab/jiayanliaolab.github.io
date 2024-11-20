@@ -1,7 +1,7 @@
 .custom-image {
   position: fixed; /* 固定在页面某处 */
   top: 20px;       /* 距离页面顶部 20px */
-  right: 50px;     /* 距离页面右侧 50px */
+  right: 0px;     /* 距离页面右侧 50px */
   z-index: 10;     /* 确保在其他元素之上 */
 }
 
