@@ -29,12 +29,8 @@ author_profile: true
 
 
 
----
+Australian Health and Medical Research Awards - Discovery Award Highly Recommended
 
-title: "Australian Health and Medical Research Awards - Discovery Award Highly Recommended"
-permalink: /award/
-author_profile: true
----
 
 
 
