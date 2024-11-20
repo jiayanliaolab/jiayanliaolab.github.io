@@ -9,7 +9,7 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  margin-left: -10px !important;
+   
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
