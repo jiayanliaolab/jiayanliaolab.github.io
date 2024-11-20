@@ -47,7 +47,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
-
+  margin-left: -100px !important; /* 向右移动 100px */ 
   @include breakpoint($large) {
     position: relative;
     float: right;
