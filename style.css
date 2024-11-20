@@ -1,11 +1,11 @@
 .custom-image {
   position: fixed; /* 固定在页面某处 */
-  top: 20px;       /* 距离页面顶部 20px */
+  top: 200px;       /* 距离页面顶部 20px */
 
   z-index: 10;     /* 确保在其他元素之上 */
 }
 
 .custom-image img {
-  width: 300px;    /* 设置图片宽度 */
-  height: auto;    /* 高度自动适应比例 */
+  width: 50px;    /* 设置图片宽度 */
+  height: 100px;    /* 高度自动适应比例 */
 }
