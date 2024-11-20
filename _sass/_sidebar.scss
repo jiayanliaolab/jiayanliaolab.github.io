@@ -9,7 +9,7 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-
+  margin-left: -100px;
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -47,12 +47,12 @@
 
 .sidebar__right {
   margin-bottom: 1em;
-
+  margin-left: -100px;
   @include breakpoint($large) {
     position: relative;
-    float: right;
+  /*  float: right;  */
     width: $right-sidebar-width-narrow;
-    margin-left: span(-0.5 of 12);
+  /*  margin-left: span(0.5 of 12);  */
     z-index: 10;
   }
 
