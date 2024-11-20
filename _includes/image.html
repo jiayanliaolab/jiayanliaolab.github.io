@@ -1,11 +1,10 @@
+
 <div class="custom-image" style="
   position: fixed;
   top: 200px;
-
-  img {
-  width: 50px;    /* 设置图片宽度 */
-  height: 100px;    /* 高度自动适应比例 */
-} 
   right: {{ site.data.right_image.image.offset }};">
-  <img src="{{ site.data.right_image.image.url }}" alt="{{ site.data.right_image.image.alt }}" class="right-image">
+  <img src="{{ site.data.right_image.image.url }}" 
+       alt="{{ site.data.right_image.image.alt }}" 
+       class="right-image" 
+       style="width: 50px; height: 100px;">
 </div>
