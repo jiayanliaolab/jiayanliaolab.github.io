@@ -30,7 +30,7 @@ author_profile: true
 
 
 ---
-layout: archive
+
 title: "Australian Health and Medical Research Awards - Discovery Award Highly Recommended"
 permalink: /award/
 author_profile: true
