@@ -9,7 +9,7 @@
 .sidebar {
   @include clearfix();
   margin-bottom: 1em;
-  margin-left: 100px !important; /* 向右移动 100px */ 
+  margin-left: -100px !important; /* 向右移动 100px */ 
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
